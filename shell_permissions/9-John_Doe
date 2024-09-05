@@ -4,5 +4,6 @@ chmod u+w hello
 chmod u+x hello
 chmod g+r hello
 chmod g+x hello
+chmod o-r hello
 chmod o+w hello
 chmod o+x hello
